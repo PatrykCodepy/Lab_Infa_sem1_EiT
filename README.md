@@ -14,3 +14,11 @@ LAB 1/2:
 -Loops for, do while and while.
 
 -Iteration, addition and times.
+
+LAB 3/4:
+
+-Library math.h     
+-Count sin, cos, sin^2+cos^2 and rad      
+-Arcsin, rad to degree      
+-Area rectangle and circle      
+-Floor and ceil     
